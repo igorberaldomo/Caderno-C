@@ -1,0 +1,1 @@
+int mainsomaunder1000();

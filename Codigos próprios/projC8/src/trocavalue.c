@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+#include "trocavalue.h"
+
+void Troca(int a, int b){
+    int temp;
+    temp = a;
+    a = b;
+    b = temp;
+    printf("Dentro: %d e %d\n", a,b);
+}
+
+int maintrocavalue(){
+    int x = 2;
+    int y = 3;
+    printf("Antes %d e %d\n", x, y);
+    Troca(x,y);
+    printf("Depois %d e %d\n",x ,y);
+    return 0;
+}

@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "octalorhexdecimal.h": "c",
+        "tipesofreadingwithscanf.h": "c",
+        "variavelglobal.h": "c",
+        "readnumberf.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "calcfatorial.h": "c",
+        "VOIDESVAZIARFLORES.C": "cpp",
+        "cossenopararameridiano.h": "c",
+        "voidimprime.h": "c",
+        "structmediaalunos.h": "c",
+        "perfectnumber.h": "c",
+        "imprimedecrescente.h": "c",
+        "recursivemulti.h": "c",
+        "recursiveadd.h": "c",
+        "recursivefatorial.h": "c",
+        "recursivefibonatti.h": "c",
+        "recursiveinvert.h": "c",
+        "square.h": "c",
+        "smallestinarray.h": "c",
+        "math.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

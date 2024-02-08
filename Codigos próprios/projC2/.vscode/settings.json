@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "octalorhexdecimal.h": "c",
+        "tipesofreadingwithscanf.h": "c",
+        "variavelglobal.h": "c",
+        "readnumberf.h": "c",
+        "stdlib.h": "c",
+        "beforeandafter.h": "c",
+        "multipliedanddividedbytwo.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

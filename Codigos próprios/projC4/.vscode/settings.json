@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "octalorhexdecimal.h": "c",
+        "tipesofreadingwithscanf.h": "c",
+        "variavelglobal.h": "c",
+        "readnumberf.h": "c",
+        "decisionchain.h": "c",
+        "diferingtaxes.h": "c",
+        "divisiblebyfiveandthree.h": "c",
+        "math.h": "c",
+        "for.h": "c",
+        "tentozerocountdown.h": "c",
+        "addnumbers.h": "c",
+        "readuntilnegative.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": true
+}
